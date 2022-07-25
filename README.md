@@ -6,6 +6,8 @@ pkg install python2
 
 pip2 install request
 
+pip2 install mechanize
+
 pkg install git
 
 git clone https://GitHub.com/dark-hacker-bd/dark-bomber
