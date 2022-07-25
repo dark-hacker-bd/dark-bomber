@@ -21,4 +21,4 @@ python2 dark-bomber.py
 Need password
 
 Username darkboy
-Password bomber
+Password inbox
